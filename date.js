@@ -3,7 +3,7 @@
         $99.99 USD</del><br>
         $39.99 USD<br>
     <font style="font-size:12px; font-weight: 200;">
-        OFERTA DISPONIBLES HASTA HOY</font>
+        Offer goes here</font>
 </div>
 <script>
     var precio = 99.99;
