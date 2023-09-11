@@ -1,5 +1,3 @@
-This is for the dynamic data as requested by a customer
-
 <div id="pd3" style="font-size: 35px; text-align: center; color: #44f814; line-height : 25px; font-weight: 900;">
         <del style="font-size: 20px; font-weight: 200;">
         $99.99 USD</del><br>
